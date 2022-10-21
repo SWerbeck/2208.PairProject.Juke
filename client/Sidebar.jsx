@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Sidebar = () =>{
+const Sidebar = () => {
   return (
     <div id='sidebar'>
-      <img src='juke.svg' alt="juku logo" id='logo' />
+      <img src='juke.svg' alt="juke logo" id='logo' />
       <section>
         <h4>
           <a>ALBUMS</a>
